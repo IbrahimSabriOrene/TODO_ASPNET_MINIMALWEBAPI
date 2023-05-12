@@ -9,7 +9,7 @@ public class ToDoData : IToDoData
     private readonly ISqlDataAccess _db;
 
     public ToDoData( ISqlDataAccess db )
-    {
+    { 
         _db = db;
     }
 
