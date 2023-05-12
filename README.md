@@ -1,5 +1,5 @@
 # TODO_ASP.NET_WEBAPI
-https://github.com/IbrahimSabriOrene/ToDoWebAPI.git
+https://github.com/IbrahimSabriOrene/TODO_ASPNET_MINIMALWEBAPI.git
 
 ASP.NET Web API Şemasını kullanarak bir TODO List yaptım, Swagger UI ile input alındığında inputu JSON dosyası olarak kayıt ediyor.
 
