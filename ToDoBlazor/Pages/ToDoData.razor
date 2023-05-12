@@ -1,0 +1,10 @@
+﻿@page "/todo";
+
+@inject IHttpClientFactory _clientFactory
+@code {
+    protected override Task OnInitializedAsync()
+    {
+        var request = new HttpRequest(HttpMethod.Get, 
+        "")
+    }
+}
